@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<!-- ### Hi there 👋
+-->
 <!--
 **assayyis/assayyis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/C5603AQHOxnq4baF0vQ/profile-displayphoto-shrink_800_800/0/1607152042978?e=1709769600&v=beta&t=8tkJK8uqUlQcKBwJzB8dhE6V7AiC5WOtppIpMpwj6uQ"  />
+  <img style="border-radius: 50%;" height="150" src="https://media.licdn.com/dms/image/C5603AQHOxnq4baF0vQ/profile-displayphoto-shrink_800_800/0/1607152042978?e=1709769600&v=beta&t=8tkJK8uqUlQcKBwJzB8dhE6V7AiC5WOtppIpMpwj6uQ"  />
 </div>
 
 ###
