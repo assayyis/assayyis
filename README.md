@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <div align="center">
   <img height="150" src="https://media.licdn.com/dms/image/C5603AQHOxnq4baF0vQ/profile-displayphoto-shrink_800_800/0/1607152042978?e=1709769600&v=beta&t=8tkJK8uqUlQcKBwJzB8dhE6V7AiC5WOtppIpMpwj6uQ"  />
 </div>
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=assayyis&"  />
 </div>
-
+-->
 ###
 
 <h1 align="center">hey there 👋</h1>
